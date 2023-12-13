@@ -1,6 +1,6 @@
 # Retrieval-Augmented-Generation
- Retrieval Augmented Generation (RAG)
-![RAG]
+ 
+![RAG](https://github.com/hayfordatim/Retrieval-Augmented-Generation/blob/main/Image/RAG-diagram.jpeg )
 
 To address the increasing demand for accessibility and support for prospective students
 I worked on implementing a chatbot using Retrieval Augmented Generation (RAG) to enable these prospect students interact with the bot to acquire information. The primary objectives of implementing the RAG is to enhance user experience, streamline information dissemination, and provide real-time support. In a world increasingly dominated by vast amounts of textual data, the ability to comprehend and generate contextually relevant content has become a paramount challenge. 
