@@ -33,4 +33,4 @@ In conclusion, the project not only showcases technical prowess but also embodie
 
 <br><br>
 
-## Thank You!!! 🙂😉
+## Thank You!!! 
